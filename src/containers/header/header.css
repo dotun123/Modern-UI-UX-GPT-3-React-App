@@ -25,7 +25,7 @@ font-family: var(--font-family);
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
-line-height: 27px;
+line-height: 35px;
 color:var(--color-text);
 margin-top: 1.5rem;
 }
@@ -130,8 +130,8 @@ text-align: center;
     }
 
 .gpt3__header p{
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 12px;
+  line-height: 35px;
 }
 
 .gpt3__header-content__people{
@@ -159,8 +159,8 @@ margin: 0;
     }
 
 .gpt3__header p{
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 20px;
+  line-height: 35px;
 }
 
 .gpt3__header-content__input input,
